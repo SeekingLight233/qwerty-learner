@@ -1,0 +1,3866 @@
+[
+  {
+    "name": "researcher",
+    "trans": [
+      "n. 研究员, 调查者"
+    ]
+  },
+  {
+    "name": "immigrant",
+    "trans": [
+      "n. 移民, 侨民"
+    ]
+  },
+  {
+    "name": "tend",
+    "trans": [
+      "v. 倾向, 照顾"
+    ]
+  },
+  {
+    "name": "program",
+    "trans": [
+      "n. 程序, 计划, 节目"
+    ]
+  },
+  {
+    "name": "property",
+    "trans": [
+      "n. 财产, 属性, 特性"
+    ]
+  },
+  {
+    "name": "structure",
+    "trans": [
+      "n. 结构, 构造, 建筑物"
+    ]
+  },
+  {
+    "name": "vehicle",
+    "trans": [
+      "n. 车辆, 工具, 媒介"
+    ]
+  },
+  {
+    "name": "signal",
+    "trans": [
+      "n. 信号, 标志 v. 发信号"
+    ]
+  },
+  {
+    "name": "almond",
+    "trans": [
+      "n. 杏仁"
+    ]
+  },
+  {
+    "name": "chemical",
+    "trans": [
+      "adj. 化学的 n. 化学物质"
+    ]
+  },
+  {
+    "name": "coalition",
+    "trans": [
+      "n. 联盟, 联合体"
+    ]
+  },
+  {
+    "name": "opportunity",
+    "trans": [
+      "n. 机会, 时机"
+    ]
+  },
+  {
+    "name": "carbon",
+    "trans": [
+      "n. 碳"
+    ]
+  },
+  {
+    "name": "strategy",
+    "trans": [
+      "n. 战略, 策略"
+    ]
+  },
+  {
+    "name": "scientist",
+    "trans": [
+      "n. 科学家"
+    ]
+  },
+  {
+    "name": "dam",
+    "trans": [
+      "n. 水坝, 坝堤"
+    ]
+  },
+  {
+    "name": "climate",
+    "trans": [
+      "n. 气候, 氛围"
+    ]
+  },
+  {
+    "name": "track",
+    "trans": [
+      "n. 轨道, 路径 v. 追踪"
+    ]
+  },
+  {
+    "name": "lizard",
+    "trans": [
+      "n. 蜥蜴"
+    ]
+  },
+  {
+    "name": "assessment",
+    "trans": [
+      "n. 评估, 评价"
+    ]
+  },
+  {
+    "name": "starvation",
+    "trans": [
+      "n. 饥饿, 饿死"
+    ]
+  },
+  {
+    "name": "migrate",
+    "trans": [
+      "v. 迁移, 移居"
+    ]
+  },
+  {
+    "name": "basically",
+    "trans": [
+      "adv. 基本上, 大体上"
+    ]
+  },
+  {
+    "name": "economist",
+    "trans": [
+      "n. 经济学家"
+    ]
+  },
+  {
+    "name": "phenomenon",
+    "trans": [
+      "n. 现象"
+    ]
+  },
+  {
+    "name": "practise",
+    "trans": [
+      "v. 练习, 实践"
+    ]
+  },
+  {
+    "name": "European",
+    "trans": [
+      "adj. 欧洲的 n. 欧洲人"
+    ]
+  },
+  {
+    "name": "investor",
+    "trans": [
+      "n. 投资者"
+    ]
+  },
+  {
+    "name": "organisation",
+    "trans": [
+      "n. 组织, 机构"
+    ]
+  },
+  {
+    "name": "poverty",
+    "trans": [
+      "n. 贫穷, 贫困"
+    ]
+  },
+  {
+    "name": "perch",
+    "trans": [
+      "n. 栖息处 v. 栖息"
+    ]
+  },
+  {
+    "name": "landscape",
+    "trans": [
+      "n. 风景, 地貌"
+    ]
+  },
+  {
+    "name": "further",
+    "trans": [
+      "adv. 更远地, 进一步地"
+    ]
+  },
+  {
+    "name": "Latino",
+    "trans": [
+      "n. 拉丁美洲人"
+    ]
+  },
+  {
+    "name": "fund",
+    "trans": [
+      "n. 资金, 基金"
+    ]
+  },
+  {
+    "name": "infect",
+    "trans": [
+      "v. 感染, 传染"
+    ]
+  },
+  {
+    "name": "unemployment",
+    "trans": [
+      "n. 失业, 失业率"
+    ]
+  },
+  {
+    "name": "conduct",
+    "trans": [
+      "v. 进行, 指导 n. 行为"
+    ]
+  },
+  {
+    "name": "temperature",
+    "trans": [
+      "n. 温度, 气温"
+    ]
+  },
+  {
+    "name": "current",
+    "trans": [
+      "adj. 当前的, 现行的 n. 流, 趋势"
+    ]
+  },
+  {
+    "name": "innovation",
+    "trans": [
+      "n. 创新, 改革"
+    ]
+  },
+  {
+    "name": "promotion",
+    "trans": [
+      "n. 提升, 促销"
+    ]
+  },
+  {
+    "name": "coral",
+    "trans": [
+      "n. 珊瑚"
+    ]
+  },
+  {
+    "name": "scale",
+    "trans": [
+      "n. 规模, 比例, 刻度"
+    ]
+  },
+  {
+    "name": "colleague",
+    "trans": [
+      "n. 同事, 同僚"
+    ]
+  },
+  {
+    "name": "switch",
+    "trans": [
+      "n. 开关, 转换 v. 转变, 切换"
+    ]
+  },
+  {
+    "name": "propose",
+    "trans": [
+      "v. 提议, 建议"
+    ]
+  },
+  {
+    "name": "breed",
+    "trans": [
+      "v. 繁殖, 培育 n. 品种"
+    ]
+  },
+  {
+    "name": "analyse",
+    "trans": [
+      "v. 分析, 研究"
+    ]
+  },
+  {
+    "name": "illegal",
+    "trans": [
+      "adj. 非法的, 违法的"
+    ]
+  },
+  {
+    "name": "release",
+    "trans": [
+      "v. 释放, 发布"
+    ]
+  },
+  {
+    "name": "mysterious",
+    "trans": [
+      "adj. 神秘的, 不可思议的"
+    ]
+  },
+  {
+    "name": "partial",
+    "trans": [
+      "adj. 部分的, 偏爱的"
+    ]
+  },
+  {
+    "name": "weld",
+    "trans": [
+      "v. 焊接, 结合"
+    ]
+  },
+  {
+    "name": "involve",
+    "trans": [
+      "v. 涉及, 包含"
+    ]
+  },
+  {
+    "name": "integrate",
+    "trans": [
+      "v. 整合, 融入"
+    ]
+  },
+  {
+    "name": "mistake",
+    "trans": [
+      "n. 错误, 失误 v. 误解"
+    ]
+  },
+  {
+    "name": "construction",
+    "trans": [
+      "n. 建造, 构造"
+    ]
+  },
+  {
+    "name": "temporary",
+    "trans": [
+      "adj. 临时的, 暂时的"
+    ]
+  },
+  {
+    "name": "estimate",
+    "trans": [
+      "v. 估计, 估算"
+    ]
+  },
+  {
+    "name": "electric",
+    "trans": [
+      "adj. 电的, 导电的"
+    ]
+  },
+  {
+    "name": "insurance",
+    "trans": [
+      "n. 保险, 保险费"
+    ]
+  },
+  {
+    "name": "identify",
+    "trans": [
+      "v. 识别, 鉴定"
+    ]
+  },
+  {
+    "name": "package",
+    "trans": [
+      "n. 包裹, 包装"
+    ]
+  },
+  {
+    "name": "astronomer",
+    "trans": [
+      "n. 天文学家"
+    ]
+  },
+  {
+    "name": "radiation",
+    "trans": [
+      "n. 辐射, 放射"
+    ]
+  },
+  {
+    "name": "detect",
+    "trans": [
+      "v. 发现, 探测"
+    ]
+  },
+  {
+    "name": "concept",
+    "trans": [
+      "n. 概念, 观念"
+    ]
+  },
+  {
+    "name": "throughout",
+    "trans": [
+      "prep. 遍及, 贯穿"
+    ]
+  },
+  {
+    "name": "desirable",
+    "trans": [
+      "adj. 理想的, 值得拥有的"
+    ]
+  },
+  {
+    "name": "account",
+    "trans": [
+      "n. 账户, 描述 v. 解释"
+    ]
+  },
+  {
+    "name": "grain",
+    "trans": [
+      "n. 谷物, 颗粒"
+    ]
+  },
+  {
+    "name": "indicate",
+    "trans": [
+      "v. 表明, 指出"
+    ]
+  },
+  {
+    "name": "quality",
+    "trans": [
+      "n. 质量, 品质"
+    ]
+  },
+  {
+    "name": "core",
+    "trans": [
+      "n. 核心, 要点"
+    ]
+  },
+  {
+    "name": "conference",
+    "trans": [
+      "n. 会议, 讨论会"
+    ]
+  },
+  {
+    "name": "economy",
+    "trans": [
+      "n. 经济, 节约"
+    ]
+  },
+  {
+    "name": "eventual",
+    "trans": [
+      "adj. 最终的, 结果的"
+    ]
+  },
+  {
+    "name": "gallery",
+    "trans": [
+      "n. 画廊, 美术馆"
+    ]
+  },
+  {
+    "name": "mode",
+    "trans": [
+      "n. 模式, 方式"
+    ]
+  },
+  {
+    "name": "claim",
+    "trans": [
+      "v. 声称, 要求"
+    ]
+  },
+  {
+    "name": "system",
+    "trans": [
+      "n. 系统, 体制"
+    ]
+  },
+  {
+    "name": "collision",
+    "trans": [
+      "n. 碰撞, 冲突"
+    ]
+  },
+  {
+    "name": "permanent",
+    "trans": [
+      "adj. 永久的, 持久的"
+    ]
+  },
+  {
+    "name": "powerful",
+    "trans": [
+      "adj. 强大的, 有力的"
+    ]
+  },
+  {
+    "name": "essential",
+    "trans": [
+      "adj. 必要的, 本质的"
+    ]
+  },
+  {
+    "name": "herd",
+    "trans": [
+      "n. 畜群, 牧群"
+    ]
+  },
+  {
+    "name": "acoustics",
+    "trans": [
+      "n. 声学, 音响效果"
+    ]
+  },
+  {
+    "name": "criminology",
+    "trans": [
+      "n. 犯罪学"
+    ]
+  },
+  {
+    "name": "entrepreneur",
+    "trans": [
+      "n. 企业家, 创业者"
+    ]
+  },
+  {
+    "name": "agricultural",
+    "trans": [
+      "adj. 农业的"
+    ]
+  },
+  {
+    "name": "electromagnetic",
+    "trans": [
+      "adj. 电磁的"
+    ]
+  },
+  {
+    "name": "polar",
+    "trans": [
+      "adj. 极地的, 两极的"
+    ]
+  },
+  {
+    "name": "amongst",
+    "trans": [
+      "prep. 在...之中"
+    ]
+  },
+  {
+    "name": "satellite",
+    "trans": [
+      "n. 卫星"
+    ]
+  },
+  {
+    "name": "significant",
+    "trans": [
+      "adj. 重要的, 有意义的"
+    ]
+  },
+  {
+    "name": "vernacular",
+    "trans": [
+      "adj. 本地的, 方言的"
+    ]
+  },
+  {
+    "name": "definition",
+    "trans": [
+      "n. 定义, 清晰度"
+    ]
+  },
+  {
+    "name": "journal",
+    "trans": [
+      "n. 日记, 杂志"
+    ]
+  },
+  {
+    "name": "firm",
+    "trans": [
+      "adj. 坚定的, 牢固的"
+    ]
+  },
+  {
+    "name": "photograph",
+    "trans": [
+      "n. 照片 v. 拍照"
+    ]
+  },
+  {
+    "name": "repetition",
+    "trans": [
+      "n. 重复, 反复"
+    ]
+  },
+  {
+    "name": "circulation",
+    "trans": [
+      "n. 流通, 循环"
+    ]
+  },
+  {
+    "name": "totality",
+    "trans": [
+      "n. 全部, 完全"
+    ]
+  },
+  {
+    "name": "backward",
+    "trans": [
+      "adj. 向后的, 迟钝的"
+    ]
+  },
+  {
+    "name": "electronic",
+    "trans": [
+      "adj. 电子的"
+    ]
+  },
+  {
+    "name": "curious",
+    "trans": [
+      "adj. 好奇的, 奇特的"
+    ]
+  },
+  {
+    "name": "bulb",
+    "trans": [
+      "n. 灯泡, 球茎"
+    ]
+  },
+  {
+    "name": "environment",
+    "trans": [
+      "n. 环境, 自然环境"
+    ]
+  },
+  {
+    "name": "debris",
+    "trans": [
+      "n. 碎片, 残骸"
+    ]
+  },
+  {
+    "name": "conservation",
+    "trans": [
+      "n. 保护, 保存"
+    ]
+  },
+  {
+    "name": "industrial",
+    "trans": [
+      "adj. 工业的, 产业的"
+    ]
+  },
+  {
+    "name": "origin",
+    "trans": [
+      "n. 起源, 出身"
+    ]
+  },
+  {
+    "name": "marine",
+    "trans": [
+      "adj. 海洋的, 海军的"
+    ]
+  },
+  {
+    "name": "restrict",
+    "trans": [
+      "v. 限制, 约束"
+    ]
+  },
+  {
+    "name": "optimistic",
+    "trans": [
+      "adj. 乐观的, 积极的"
+    ]
+  },
+  {
+    "name": "individual",
+    "trans": [
+      "adj. 个别的, 单独的"
+    ]
+  },
+  {
+    "name": "collide",
+    "trans": [
+      "v. 碰撞, 冲突"
+    ]
+  },
+  {
+    "name": "disorder",
+    "trans": [
+      "n. 混乱, 紊乱"
+    ]
+  },
+  {
+    "name": "contract",
+    "trans": [
+      "n. 合同, 契约"
+    ]
+  },
+  {
+    "name": "luxury",
+    "trans": [
+      "n. 奢侈, 豪华"
+    ]
+  },
+  {
+    "name": "distinguish",
+    "trans": [
+      "v. 区分, 辨别"
+    ]
+  },
+  {
+    "name": "professor",
+    "trans": [
+      "n. 教授"
+    ]
+  },
+  {
+    "name": "sequester",
+    "trans": [
+      "v. 隔离, 扣押"
+    ]
+  },
+  {
+    "name": "particular",
+    "trans": [
+      "adj. 特别的, 独特的"
+    ]
+  },
+  {
+    "name": "promote",
+    "trans": [
+      "v. 促进, 推广"
+    ]
+  },
+  {
+    "name": "volume",
+    "trans": [
+      "n. 音量, 体积"
+    ]
+  },
+  {
+    "name": "politics",
+    "trans": [
+      "n. 政治, 政治学"
+    ]
+  },
+  {
+    "name": "collection",
+    "trans": [
+      "n. 收藏, 收集"
+    ]
+  },
+  {
+    "name": "biology",
+    "trans": [
+      "n. 生物学"
+    ]
+  },
+  {
+    "name": "eclipse",
+    "trans": [
+      "n. 日食, 月食"
+    ]
+  },
+  {
+    "name": "absolute",
+    "trans": [
+      "adj. 绝对的, 完全的"
+    ]
+  },
+  {
+    "name": "movement",
+    "trans": [
+      "n. 运动, 动作"
+    ]
+  },
+  {
+    "name": "executive",
+    "trans": [
+      "adj. 执行的, 管理的"
+    ]
+  },
+  {
+    "name": "deficiency",
+    "trans": [
+      "n. 缺乏, 不足"
+    ]
+  },
+  {
+    "name": "compute",
+    "trans": [
+      "v. 计算, 估算"
+    ]
+  },
+  {
+    "name": "molecular",
+    "trans": [
+      "adj. 分子的"
+    ]
+  },
+  {
+    "name": "regulation",
+    "trans": [
+      "n. 规则, 监管"
+    ]
+  },
+  {
+    "name": "urgency",
+    "trans": [
+      "n. 紧急, 紧迫"
+    ]
+  },
+  {
+    "name": "measure",
+    "trans": [
+      "v. 测量, 衡量"
+    ]
+  },
+  {
+    "name": "recorder",
+    "trans": [
+      "n. 录音机, 记录仪"
+    ]
+  },
+  {
+    "name": "notion",
+    "trans": [
+      "n. 概念, 想法"
+    ]
+  },
+  {
+    "name": "subscribe",
+    "trans": [
+      "v. 订阅, 认购"
+    ]
+  },
+  {
+    "name": "uncover",
+    "trans": [
+      "v. 发现, 揭开"
+    ]
+  },
+  {
+    "name": "digital",
+    "trans": [
+      "adj. 数字的, 电子的"
+    ]
+  },
+  {
+    "name": "financial",
+    "trans": [
+      "adj. 财务的, 金融的"
+    ]
+  },
+  {
+    "name": "telescope",
+    "trans": [
+      "n. 望远镜"
+    ]
+  },
+  {
+    "name": "transition",
+    "trans": [
+      "n. 过渡, 转变"
+    ]
+  },
+  {
+    "name": "sensitivity",
+    "trans": [
+      "n. 敏感性, 灵敏度"
+    ]
+  },
+  {
+    "name": "hive",
+    "trans": [
+      "n. 蜂巢, 蜂群"
+    ]
+  },
+  {
+    "name": "representative",
+    "trans": [
+      "n. 代表, 代理人"
+    ]
+  },
+  {
+    "name": "generation",
+    "trans": [
+      "n. 一代, 产生"
+    ]
+  },
+  {
+    "name": "motivational",
+    "trans": [
+      "adj. 激励的, 鼓舞的"
+    ]
+  },
+  {
+    "name": "moonshot",
+    "trans": [
+      "n. 登月, 宏伟计划"
+    ]
+  },
+  {
+    "name": "advance",
+    "trans": [
+      "v. 前进, 促进"
+    ]
+  },
+  {
+    "name": "float",
+    "trans": [
+      "v. 漂浮, 飘动"
+    ]
+  },
+  {
+    "name": "operation",
+    "trans": [
+      "n. 操作, 手术"
+    ]
+  },
+  {
+    "name": "resource",
+    "trans": [
+      "n. 资源, 财力"
+    ]
+  },
+  {
+    "name": "engineer",
+    "trans": [
+      "n. 工程师, 技师"
+    ]
+  },
+  {
+    "name": "academic",
+    "trans": [
+      "adj. 学术的, 学院的"
+    ]
+  },
+  {
+    "name": "aurora",
+    "trans": [
+      "n. 极光"
+    ]
+  },
+  {
+    "name": "equity",
+    "trans": [
+      "n. 公平, 股本"
+    ]
+  },
+  {
+    "name": "assignment",
+    "trans": [
+      "n. 作业, 分配"
+    ]
+  },
+  {
+    "name": "desirability",
+    "trans": [
+      "n. 令人向往的程度"
+    ]
+  },
+  {
+    "name": "feature",
+    "trans": [
+      "n. 特征, 特色"
+    ]
+  },
+  {
+    "name": "benefit",
+    "trans": [
+      "n. 利益, 好处"
+    ]
+  },
+  {
+    "name": "experiment",
+    "trans": [
+      "n. 实验, 试验"
+    ]
+  },
+  {
+    "name": "prove",
+    "trans": [
+      "v. 证明, 证实"
+    ]
+  },
+  {
+    "name": "physician",
+    "trans": [
+      "n. 医师, 内科医生"
+    ]
+  },
+  {
+    "name": "abrupt",
+    "trans": [
+      "adj. 突然的, 唐突的"
+    ]
+  },
+  {
+    "name": "criticism",
+    "trans": [
+      "n. 批评, 评论"
+    ]
+  },
+  {
+    "name": "respond",
+    "trans": [
+      "v. 回答, 响应"
+    ]
+  },
+  {
+    "name": "complain",
+    "trans": [
+      "v. 抱怨, 投诉"
+    ]
+  },
+  {
+    "name": "plunge",
+    "trans": [
+      "v. 使陷入, 投入"
+    ]
+  },
+  {
+    "name": "judgement",
+    "trans": [
+      "n. 判断, 裁判"
+    ]
+  },
+  {
+    "name": "manuscript",
+    "trans": [
+      "n. 手稿, 原稿"
+    ]
+  },
+  {
+    "name": "honour",
+    "trans": [
+      "n. 荣誉, 尊敬"
+    ]
+  },
+  {
+    "name": "recognise",
+    "trans": [
+      "v. 认出, 承认"
+    ]
+  },
+  {
+    "name": "pose",
+    "trans": [
+      "v. 摆姿势, 造成"
+    ]
+  },
+  {
+    "name": "appetite",
+    "trans": [
+      "n. 食欲, 欲望"
+    ]
+  },
+  {
+    "name": "survival",
+    "trans": [
+      "n. 生存, 幸存"
+    ]
+  },
+  {
+    "name": "tropical",
+    "trans": [
+      "adj. 热带的, 炎热的"
+    ]
+  },
+  {
+    "name": "contribute",
+    "trans": [
+      "v. 贡献, 捐献"
+    ]
+  },
+  {
+    "name": "leftover",
+    "trans": [
+      "n. 剩余物, 残留物"
+    ]
+  },
+  {
+    "name": "approve",
+    "trans": [
+      "v. 批准, 同意"
+    ]
+  },
+  {
+    "name": "clamour",
+    "trans": [
+      "n. 喧闹, 吵闹"
+    ]
+  },
+  {
+    "name": "flick",
+    "trans": [
+      "n. 轻弹, 快速的动作"
+    ]
+  },
+  {
+    "name": "vampire",
+    "trans": [
+      "n. 吸血鬼"
+    ]
+  },
+  {
+    "name": "carmaker",
+    "trans": [
+      "n. 汽车制造商"
+    ]
+  },
+  {
+    "name": "frequency",
+    "trans": [
+      "n. 频率, 频繁"
+    ]
+  },
+  {
+    "name": "expansion",
+    "trans": [
+      "n. 扩张, 膨胀"
+    ]
+  },
+  {
+    "name": "feedback",
+    "trans": [
+      "n. 反馈, 回馈"
+    ]
+  },
+  {
+    "name": "district",
+    "trans": [
+      "n. 区域, 地区"
+    ]
+  },
+  {
+    "name": "agriculture",
+    "trans": [
+      "n. 农业, 农艺"
+    ]
+  },
+  {
+    "name": "flexible",
+    "trans": [
+      "adj. 灵活的, 可变通的"
+    ]
+  },
+  {
+    "name": "production",
+    "trans": [
+      "n. 生产, 制作"
+    ]
+  },
+  {
+    "name": "engineering",
+    "trans": [
+      "n. 工程, 工程学"
+    ]
+  },
+  {
+    "name": "unashamed",
+    "trans": [
+      "adj. 无耻的, 不知羞耻的"
+    ]
+  },
+  {
+    "name": "aesthetic",
+    "trans": [
+      "adj. 美学的, 审美的"
+    ]
+  },
+  {
+    "name": "frontier",
+    "trans": [
+      "n. 边境, 边界"
+    ]
+  },
+  {
+    "name": "apparent",
+    "trans": [
+      "adj. 明显的, 显而易见的"
+    ]
+  },
+  {
+    "name": "cluster",
+    "trans": [
+      "n. 群, 簇"
+    ]
+  },
+  {
+    "name": "vacuum",
+    "trans": [
+      "n. 真空, 空白"
+    ]
+  },
+  {
+    "name": "artefact",
+    "trans": [
+      "n. 人工制品"
+    ]
+  },
+  {
+    "name": "derivative",
+    "trans": [
+      "adj. 派生的, 导出的"
+    ]
+  },
+  {
+    "name": "census",
+    "trans": [
+      "n. 人口普查"
+    ]
+  },
+  {
+    "name": "reproduce",
+    "trans": [
+      "v. 复制, 繁殖"
+    ]
+  },
+  {
+    "name": "symptom",
+    "trans": [
+      "n. 症状, 征兆"
+    ]
+  },
+  {
+    "name": "cruise",
+    "trans": [
+      "v. 巡航, 航游"
+    ]
+  },
+  {
+    "name": "software",
+    "trans": [
+      "n. 软件"
+    ]
+  },
+  {
+    "name": "echo",
+    "trans": [
+      "n. 回声, 共鸣"
+    ]
+  },
+  {
+    "name": "consider",
+    "trans": [
+      "v. 考虑, 认为"
+    ]
+  },
+  {
+    "name": "department",
+    "trans": [
+      "n. 部门, 系"
+    ]
+  },
+  {
+    "name": "impression",
+    "trans": [
+      "n. 印象, 影响"
+    ]
+  },
+  {
+    "name": "trait",
+    "trans": [
+      "n. 特征, 特性"
+    ]
+  },
+  {
+    "name": "thoughtful",
+    "trans": [
+      "adj. 深思的, 体贴的"
+    ]
+  },
+  {
+    "name": "pilgrim",
+    "trans": [
+      "n. 朝圣者, 旅行者"
+    ]
+  },
+  {
+    "name": "cosmic",
+    "trans": [
+      "adj. 宇宙的, 广大的"
+    ]
+  },
+  {
+    "name": "operational",
+    "trans": [
+      "adj. 操作的, 运作的"
+    ]
+  },
+  {
+    "name": "appendix",
+    "trans": [
+      "n. 附录, 阑尾"
+    ]
+  },
+  {
+    "name": "situate",
+    "trans": [
+      "v. 使位于, 坐落于"
+    ]
+  },
+  {
+    "name": "cultural",
+    "trans": [
+      "adj. 文化的, 教养的"
+    ]
+  },
+  {
+    "name": "puzzle",
+    "trans": [
+      "n. 谜, 难题"
+    ]
+  },
+  {
+    "name": "staircase",
+    "trans": [
+      "n. 楼梯"
+    ]
+  },
+  {
+    "name": "productive",
+    "trans": [
+      "adj. 生产的, 多产的"
+    ]
+  },
+  {
+    "name": "forgive",
+    "trans": [
+      "v. 原谅, 宽恕"
+    ]
+  },
+  {
+    "name": "transcend",
+    "trans": [
+      "v. 超越, 超过"
+    ]
+  },
+  {
+    "name": "archaeologist",
+    "trans": [
+      "n. 考古学家"
+    ]
+  },
+  {
+    "name": "colony",
+    "trans": [
+      "n. 殖民地, 群体"
+    ]
+  },
+  {
+    "name": "clump",
+    "trans": [
+      "n. 丛, 簇"
+    ]
+  },
+  {
+    "name": "rhythmical",
+    "trans": [
+      "adj. 有节奏的, 有规律的"
+    ]
+  },
+  {
+    "name": "preparation",
+    "trans": [
+      "n. 准备, 预备"
+    ]
+  },
+  {
+    "name": "unweldable",
+    "trans": [
+      "adj. 不能焊接的"
+    ]
+  },
+  {
+    "name": "survive",
+    "trans": [
+      "v. 幸存, 生存"
+    ]
+  },
+  {
+    "name": "glimpse",
+    "trans": [
+      "n. 一瞥, 一看"
+    ]
+  },
+  {
+    "name": "characterisation",
+    "trans": [
+      "n. 描述, 特征"
+    ]
+  },
+  {
+    "name": "technique",
+    "trans": [
+      "n. 技术, 方法"
+    ]
+  },
+  {
+    "name": "colloquial",
+    "trans": [
+      "adj. 口语的, 通俗的"
+    ]
+  },
+  {
+    "name": "sequence",
+    "trans": [
+      "n. 序列, 顺序"
+    ]
+  },
+  {
+    "name": "refine",
+    "trans": [
+      "v. 提炼, 改进"
+    ]
+  },
+  {
+    "name": "consideration",
+    "trans": [
+      "n. 考虑, 思考"
+    ]
+  },
+  {
+    "name": "feather",
+    "trans": [
+      "n. 羽毛"
+    ]
+  },
+  {
+    "name": "biologist",
+    "trans": [
+      "n. 生物学家"
+    ]
+  },
+  {
+    "name": "spinal",
+    "trans": [
+      "adj. 脊柱的"
+    ]
+  },
+  {
+    "name": "fragile",
+    "trans": [
+      "adj. 易碎的, 脆弱的"
+    ]
+  },
+  {
+    "name": "foyer",
+    "trans": [
+      "n. 门厅, 休息室"
+    ]
+  },
+  {
+    "name": "statistics",
+    "trans": [
+      "n. 统计学, 统计数据"
+    ]
+  },
+  {
+    "name": "compensate",
+    "trans": [
+      "v. 补偿, 赔偿"
+    ]
+  },
+  {
+    "name": "reimagine",
+    "trans": [
+      "v. 重新想象"
+    ]
+  },
+  {
+    "name": "drought",
+    "trans": [
+      "n. 干旱, 旱灾"
+    ]
+  },
+  {
+    "name": "discipline",
+    "trans": [
+      "n. 纪律, 学科"
+    ]
+  },
+  {
+    "name": "scarlet",
+    "trans": [
+      "adj. 猩红的, 鲜红的"
+    ]
+  },
+  {
+    "name": "predict",
+    "trans": [
+      "v. 预测, 预言"
+    ]
+  },
+  {
+    "name": "pedal",
+    "trans": [
+      "n. 踏板, 脚蹬"
+    ]
+  },
+  {
+    "name": "neuron",
+    "trans": [
+      "n. 神经元"
+    ]
+  },
+  {
+    "name": "toxic",
+    "trans": [
+      "adj. 有毒的, 中毒的"
+    ]
+  },
+  {
+    "name": "outward",
+    "trans": [
+      "adj. 外表的, 向外的"
+    ]
+  },
+  {
+    "name": "dramatic",
+    "trans": [
+      "adj. 戏剧的, 引人注目的"
+    ]
+  },
+  {
+    "name": "reassess",
+    "trans": [
+      "v. 重新评估"
+    ]
+  },
+  {
+    "name": "spew",
+    "trans": [
+      "v. 喷出, 涌出"
+    ]
+  },
+  {
+    "name": "margin",
+    "trans": [
+      "n. 边缘, 利润"
+    ]
+  },
+  {
+    "name": "hub",
+    "trans": [
+      "n. 中心, 枢纽"
+    ]
+  },
+  {
+    "name": "explanation",
+    "trans": [
+      "n. 解释, 说明"
+    ]
+  },
+  {
+    "name": "section",
+    "trans": [
+      "n. 部分, 截面"
+    ]
+  },
+  {
+    "name": "bracket",
+    "trans": [
+      "n. 括号, 等级"
+    ]
+  },
+  {
+    "name": "cord",
+    "trans": [
+      "n. 绳子, 索"
+    ]
+  },
+  {
+    "name": "fundamental",
+    "trans": [
+      "adj. 基本的, 根本的"
+    ]
+  },
+  {
+    "name": "archaeology",
+    "trans": [
+      "n. 考古学"
+    ]
+  },
+  {
+    "name": "encompass",
+    "trans": [
+      "v. 包含, 围绕"
+    ]
+  },
+  {
+    "name": "obstruct",
+    "trans": [
+      "v. 阻塞, 妨碍"
+    ]
+  },
+  {
+    "name": "academy",
+    "trans": [
+      "n. 学院, 学术团体"
+    ]
+  },
+  {
+    "name": "energetic",
+    "trans": [
+      "adj. 精力充沛的, 积极的"
+    ]
+  },
+  {
+    "name": "appoint",
+    "trans": [
+      "v. 任命, 指定"
+    ]
+  },
+  {
+    "name": "foreshadow",
+    "trans": [
+      "v. 预示, 预兆"
+    ]
+  },
+  {
+    "name": "airplane",
+    "trans": [
+      "n. 飞机"
+    ]
+  },
+  {
+    "name": "coverage",
+    "trans": [
+      "n. 覆盖范围, 报道"
+    ]
+  },
+  {
+    "name": "confidential",
+    "trans": [
+      "adj. 机密的, 亲密的"
+    ]
+  },
+  {
+    "name": "deafen",
+    "trans": [
+      "v. 使耳聋, 淹没"
+    ]
+  },
+  {
+    "name": "awesome",
+    "trans": [
+      "adj. 令人敬畏的, 极好的"
+    ]
+  },
+  {
+    "name": "stressful",
+    "trans": [
+      "adj. 紧张的, 压力大的"
+    ]
+  },
+  {
+    "name": "narrowness",
+    "trans": [
+      "n. 狭窄, 缺乏"
+    ]
+  },
+  {
+    "name": "sacrifice",
+    "trans": [
+      "n. 牺牲, 祭品"
+    ]
+  },
+  {
+    "name": "prestigious",
+    "trans": [
+      "adj. 有声望的, 有威信的"
+    ]
+  },
+  {
+    "name": "excess",
+    "trans": [
+      "n. 过量, 超过"
+    ]
+  },
+  {
+    "name": "signifier",
+    "trans": [
+      "n. 信号, 标志"
+    ]
+  },
+  {
+    "name": "professorship",
+    "trans": [
+      "n. 教授职位"
+    ]
+  },
+  {
+    "name": "skeleton",
+    "trans": [
+      "n. 骨架, 骨骼"
+    ]
+  },
+  {
+    "name": "tint",
+    "trans": [
+      "n. 色彩, 色调"
+    ]
+  },
+  {
+    "name": "cocoon",
+    "trans": [
+      "n. 茧, 保护层"
+    ]
+  },
+  {
+    "name": "sleek",
+    "trans": [
+      "adj. 光滑的, 圆滑的"
+    ]
+  },
+  {
+    "name": "establish",
+    "trans": [
+      "v. 建立, 设立"
+    ]
+  },
+  {
+    "name": "eliminate",
+    "trans": [
+      "v. 消除, 排除"
+    ]
+  },
+  {
+    "name": "tune",
+    "trans": [
+      "n. 曲调, 调子"
+    ]
+  },
+  {
+    "name": "lecture",
+    "trans": [
+      "n. 演讲, 讲座"
+    ]
+  },
+  {
+    "name": "ultimate",
+    "trans": [
+      "adj. 最终的, 极限的"
+    ]
+  },
+  {
+    "name": "struggle",
+    "trans": [
+      "v. 奋斗, 挣扎"
+    ]
+  },
+  {
+    "name": "manifesto",
+    "trans": [
+      "n. 宣言, 声明"
+    ]
+  },
+  {
+    "name": "economics",
+    "trans": [
+      "n. 经济学"
+    ]
+  },
+  {
+    "name": "hind",
+    "trans": [
+      "adj. 后部的, 在后的"
+    ]
+  },
+  {
+    "name": "visualisation",
+    "trans": [
+      "n. 形象化, 可视化"
+    ]
+  },
+  {
+    "name": "battery",
+    "trans": [
+      "n. 电池, 一组"
+    ]
+  },
+  {
+    "name": "wrap",
+    "trans": [
+      "v. 包裹, 覆盖"
+    ]
+  },
+  {
+    "name": "uptick",
+    "trans": [
+      "n. 小幅增加"
+    ]
+  },
+  {
+    "name": "dater",
+    "trans": [
+      "n. 约会者"
+    ]
+  },
+  {
+    "name": "platform",
+    "trans": [
+      "n. 平台, 讲台"
+    ]
+  },
+  {
+    "name": "radical",
+    "trans": [
+      "adj. 根本的, 激进的"
+    ]
+  },
+  {
+    "name": "inundate",
+    "trans": [
+      "v. 淹没, 泛滥"
+    ]
+  },
+  {
+    "name": "genuine",
+    "trans": [
+      "adj. 真正的, 真实的"
+    ]
+  },
+  {
+    "name": "blunt",
+    "trans": [
+      "adj. 直率的, 钝的"
+    ]
+  },
+  {
+    "name": "prestige",
+    "trans": [
+      "n. 威望, 声望"
+    ]
+  },
+  {
+    "name": "rear",
+    "trans": [
+      "n. 后部, 背面"
+    ]
+  },
+  {
+    "name": "indirect",
+    "trans": [
+      "adj. 间接的, 迂回的"
+    ]
+  },
+  {
+    "name": "distance",
+    "trans": [
+      "n. 距离, 间隔"
+    ]
+  },
+  {
+    "name": "reconstruct",
+    "trans": [
+      "v. 重建, 修复"
+    ]
+  },
+  {
+    "name": "oceanographer",
+    "trans": [
+      "n. 海洋学家"
+    ]
+  },
+  {
+    "name": "beleaguer",
+    "trans": [
+      "v. 围攻, 困扰"
+    ]
+  },
+  {
+    "name": "instruct",
+    "trans": [
+      "v. 指导, 教授"
+    ]
+  },
+  {
+    "name": "folk",
+    "trans": [
+      "n. 民间, 人们"
+    ]
+  },
+  {
+    "name": "boundary",
+    "trans": [
+      "n. 边界, 界限"
+    ]
+  },
+  {
+    "name": "rivet",
+    "trans": [
+      "n. 铆钉"
+    ]
+  },
+  {
+    "name": "critical",
+    "trans": [
+      "adj. 批评的, 关键的"
+    ]
+  },
+  {
+    "name": "declare",
+    "trans": [
+      "v. 宣布, 声明"
+    ]
+  },
+  {
+    "name": "northwest",
+    "trans": [
+      "n. 西北, 西北部"
+    ]
+  },
+  {
+    "name": "conclude",
+    "trans": [
+      "v. 结束, 得出结论"
+    ]
+  },
+  {
+    "name": "robust",
+    "trans": [
+      "adj. 强健的, 健壮的"
+    ]
+  },
+  {
+    "name": "mutate",
+    "trans": [
+      "v. 突变, 改变"
+    ]
+  },
+  {
+    "name": "particle",
+    "trans": [
+      "n. 粒子, 颗粒"
+    ]
+  },
+  {
+    "name": "anniversary",
+    "trans": [
+      "n. 周年纪念"
+    ]
+  },
+  {
+    "name": "socialise",
+    "trans": [
+      "v. 社交, 交际"
+    ]
+  },
+  {
+    "name": "elimination",
+    "trans": [
+      "n. 消除, 排除"
+    ]
+  },
+  {
+    "name": "interpersonal",
+    "trans": [
+      "adj. 人际的"
+    ]
+  },
+  {
+    "name": "various",
+    "trans": [
+      "adj. 各种各样的, 不同的"
+    ]
+  },
+  {
+    "name": "original",
+    "trans": [
+      "adj. 原始的, 独创的"
+    ]
+  },
+  {
+    "name": "previous",
+    "trans": [
+      "adj. 以前的, 先前的"
+    ]
+  },
+  {
+    "name": "politician",
+    "trans": [
+      "n. 政治家, 政客"
+    ]
+  },
+  {
+    "name": "forth",
+    "trans": [
+      "adv. 向前, 向外"
+    ]
+  },
+  {
+    "name": "transmit",
+    "trans": [
+      "v. 传输, 传递"
+    ]
+  },
+  {
+    "name": "categorise",
+    "trans": [
+      "v. 分类, 归类"
+    ]
+  },
+  {
+    "name": "attendant",
+    "trans": [
+      "n. 服务员, 侍者"
+    ]
+  },
+  {
+    "name": "patch",
+    "trans": [
+      "n. 补丁, 斑点"
+    ]
+  },
+  {
+    "name": "architecture",
+    "trans": [
+      "n. 建筑学, 建筑风格"
+    ]
+  },
+  {
+    "name": "stream",
+    "trans": [
+      "n. 流, 小溪"
+    ]
+  },
+  {
+    "name": "flake",
+    "trans": [
+      "n. 薄片, 小片"
+    ]
+  },
+  {
+    "name": "problematic",
+    "trans": [
+      "adj. 成问题的, 有疑问的"
+    ]
+  },
+  {
+    "name": "patriotism",
+    "trans": [
+      "n. 爱国主义, 爱国心"
+    ]
+  },
+  {
+    "name": "yawn",
+    "trans": [
+      "v. 打哈欠"
+    ]
+  },
+  {
+    "name": "fossilise",
+    "trans": [
+      "v. 使成化石"
+    ]
+  },
+  {
+    "name": "intend",
+    "trans": [
+      "v. 打算, 计划"
+    ]
+  },
+  {
+    "name": "institution",
+    "trans": [
+      "n. 机构, 制度"
+    ]
+  },
+  {
+    "name": "document",
+    "trans": [
+      "n. 文件, 记录"
+    ]
+  },
+  {
+    "name": "analyst",
+    "trans": [
+      "n. 分析家, 分析师"
+    ]
+  },
+  {
+    "name": "spate",
+    "trans": [
+      "n. 大量, 泛滥"
+    ]
+  },
+  {
+    "name": "astronomical",
+    "trans": [
+      "adj. 天文的, 巨大的"
+    ]
+  },
+  {
+    "name": "mechanism",
+    "trans": [
+      "n. 机制, 原理"
+    ]
+  },
+  {
+    "name": "interact",
+    "trans": [
+      "v. 相互作用, 互动"
+    ]
+  },
+  {
+    "name": "evident",
+    "trans": [
+      "adj. 明显的, 显然的"
+    ]
+  },
+  {
+    "name": "discern",
+    "trans": [
+      "v. 辨别, 识别"
+    ]
+  },
+  {
+    "name": "universe",
+    "trans": [
+      "n. 宇宙, 世界"
+    ]
+  },
+  {
+    "name": "pesticide",
+    "trans": [
+      "n. 杀虫剂"
+    ]
+  },
+  {
+    "name": "unattractive",
+    "trans": [
+      "adj. 无吸引力的"
+    ]
+  },
+  {
+    "name": "boom",
+    "trans": [
+      "v. 繁荣, 激增"
+    ]
+  },
+  {
+    "name": "realize",
+    "trans": [
+      "v. 实现, 了解"
+    ]
+  },
+  {
+    "name": "irrigate",
+    "trans": [
+      "v. 灌溉"
+    ]
+  },
+  {
+    "name": "variety",
+    "trans": [
+      "n. 多样性, 种类"
+    ]
+  },
+  {
+    "name": "pertain",
+    "trans": [
+      "v. 属于, 关于"
+    ]
+  },
+  {
+    "name": "bloom",
+    "trans": [
+      "n. 花, 旺盛"
+    ]
+  },
+  {
+    "name": "visible",
+    "trans": [
+      "adj. 可见的, 明显的"
+    ]
+  },
+  {
+    "name": "portrait",
+    "trans": [
+      "n. 肖像, 画像"
+    ]
+  },
+  {
+    "name": "collaboration",
+    "trans": [
+      "n. 合作, 协作"
+    ]
+  },
+  {
+    "name": "celebration",
+    "trans": [
+      "n. 庆祝, 庆典"
+    ]
+  },
+  {
+    "name": "rebuild",
+    "trans": [
+      "v. 重建, 改建"
+    ]
+  },
+  {
+    "name": "grin",
+    "trans": [
+      "v. 露齿而笑"
+    ]
+  },
+  {
+    "name": "eradicate",
+    "trans": [
+      "v. 根除, 消灭"
+    ]
+  },
+  {
+    "name": "matchstick",
+    "trans": [
+      "n. 火柴杆"
+    ]
+  },
+  {
+    "name": "collector",
+    "trans": [
+      "n. 收藏家, 收集者"
+    ]
+  },
+  {
+    "name": "depth",
+    "trans": [
+      "n. 深度, 深奥"
+    ]
+  },
+  {
+    "name": "champagne",
+    "trans": [
+      "n. 香槟酒"
+    ]
+  },
+  {
+    "name": "utter",
+    "trans": [
+      "v. 说出, 发出"
+    ]
+  },
+  {
+    "name": "overseas",
+    "trans": [
+      "adv. 在海外, 向国外"
+    ]
+  },
+  {
+    "name": "submerge",
+    "trans": [
+      "v. 淹没, 浸入"
+    ]
+  },
+  {
+    "name": "scotch",
+    "trans": [
+      "v. 弄伤, 终止"
+    ]
+  },
+  {
+    "name": "stimulate",
+    "trans": [
+      "v. 刺激, 激励"
+    ]
+  },
+  {
+    "name": "auroral",
+    "trans": [
+      "adj. 极光的"
+    ]
+  },
+  {
+    "name": "spatial",
+    "trans": [
+      "adj. 空间的, 空间性的"
+    ]
+  },
+  {
+    "name": "slam",
+    "trans": [
+      "v. 猛击, 砰地关上"
+    ]
+  },
+  {
+    "name": "application",
+    "trans": [
+      "n. 应用, 申请"
+    ]
+  },
+  {
+    "name": "breadth",
+    "trans": [
+      "n. 宽度, 广度"
+    ]
+  },
+  {
+    "name": "complexity",
+    "trans": [
+      "n. 复杂性"
+    ]
+  },
+  {
+    "name": "auditory",
+    "trans": [
+      "adj. 听觉的"
+    ]
+  },
+  {
+    "name": "macromolecular",
+    "trans": [
+      "adj. 高分子的"
+    ]
+  },
+  {
+    "name": "commercial",
+    "trans": [
+      "adj. 商业的, 贸易的"
+    ]
+  },
+  {
+    "name": "inject",
+    "trans": [
+      "v. 注射, 注入"
+    ]
+  },
+  {
+    "name": "merge",
+    "trans": [
+      "v. 合并, 融合"
+    ]
+  },
+  {
+    "name": "mite",
+    "trans": [
+      "n. 微小的东西"
+    ]
+  },
+  {
+    "name": "engagement",
+    "trans": [
+      "n. 约会, 婚约"
+    ]
+  },
+  {
+    "name": "proposal",
+    "trans": [
+      "n. 提议, 求婚"
+    ]
+  },
+  {
+    "name": "minimal",
+    "trans": [
+      "adj. 最小的, 最低限度的"
+    ]
+  },
+  {
+    "name": "visualize",
+    "trans": [
+      "v. 设想, 使可见"
+    ]
+  },
+  {
+    "name": "fort",
+    "trans": [
+      "n. 堡垒, 要塞"
+    ]
+  },
+  {
+    "name": "overturn",
+    "trans": [
+      "v. 推翻, 颠覆"
+    ]
+  },
+  {
+    "name": "disturb",
+    "trans": [
+      "v. 打扰, 干扰"
+    ]
+  },
+  {
+    "name": "compliance",
+    "trans": [
+      "n. 服从, 顺从"
+    ]
+  },
+  {
+    "name": "unravel",
+    "trans": [
+      "v. 解开, 阐明"
+    ]
+  },
+  {
+    "name": "capture",
+    "trans": [
+      "v. 捕获, 夺取"
+    ]
+  },
+  {
+    "name": "celebrate",
+    "trans": [
+      "v. 庆祝, 颂扬"
+    ]
+  },
+  {
+    "name": "exert",
+    "trans": [
+      "v. 发挥, 运用"
+    ]
+  },
+  {
+    "name": "association",
+    "trans": [
+      "n. 协会, 联系"
+    ]
+  },
+  {
+    "name": "fastener",
+    "trans": [
+      "n. 纽扣, 按扣"
+    ]
+  },
+  {
+    "name": "surround",
+    "trans": [
+      "v. 包围, 环绕"
+    ]
+  },
+  {
+    "name": "manufacture",
+    "trans": [
+      "v. 生产, 制造"
+    ]
+  },
+  {
+    "name": "transform",
+    "trans": [
+      "v. 改变, 转换"
+    ]
+  },
+  {
+    "name": "expectation",
+    "trans": [
+      "n. 期望, 预期"
+    ]
+  },
+  {
+    "name": "recovery",
+    "trans": [
+      "n. 恢复, 复苏"
+    ]
+  },
+  {
+    "name": "pulse",
+    "trans": [
+      "n. 脉搏, 脉冲"
+    ]
+  },
+  {
+    "name": "epidemic",
+    "trans": [
+      "n. 流行病, 传染病"
+    ]
+  },
+  {
+    "name": "stale",
+    "trans": [
+      "adj. 陈旧的, 不新鲜的"
+    ]
+  },
+  {
+    "name": "slump",
+    "trans": [
+      "v. 暴跌, 突然下降"
+    ]
+  },
+  {
+    "name": "consultant",
+    "trans": [
+      "n. 顾问, 咨询者"
+    ]
+  },
+  {
+    "name": "publish",
+    "trans": [
+      "v. 出版, 发表"
+    ]
+  },
+  {
+    "name": "defensible",
+    "trans": [
+      "adj. 可防御的, 合理的"
+    ]
+  },
+  {
+    "name": "concentrate",
+    "trans": [
+      "v. 集中, 专心"
+    ]
+  },
+  {
+    "name": "external",
+    "trans": [
+      "adj. 外部的, 外来的"
+    ]
+  },
+  {
+    "name": "canyon",
+    "trans": [
+      "n. 峡谷"
+    ]
+  },
+  {
+    "name": "equation",
+    "trans": [
+      "n. 方程, 等式"
+    ]
+  },
+  {
+    "name": "upwards",
+    "trans": [
+      "adv. 向上, 上升"
+    ]
+  },
+  {
+    "name": "legitimate",
+    "trans": [
+      "adj. 合法的, 合理的"
+    ]
+  },
+  {
+    "name": "neighbour",
+    "trans": [
+      "n. 邻居, 邻国"
+    ]
+  },
+  {
+    "name": "associate",
+    "trans": [
+      "v. 联系, 联想"
+    ]
+  },
+  {
+    "name": "mammal",
+    "trans": [
+      "n. 哺乳动物"
+    ]
+  },
+  {
+    "name": "predicament",
+    "trans": [
+      "n. 困境, 窘境"
+    ]
+  },
+  {
+    "name": "glean",
+    "trans": [
+      "v. 收集, 拾取"
+    ]
+  },
+  {
+    "name": "tremendous",
+    "trans": [
+      "adj. 巨大的, 极大的"
+    ]
+  },
+  {
+    "name": "database",
+    "trans": [
+      "n. 数据库"
+    ]
+  },
+  {
+    "name": "biological",
+    "trans": [
+      "adj. 生物的, 生物学的"
+    ]
+  },
+  {
+    "name": "enlarge",
+    "trans": [
+      "v. 扩大, 放大"
+    ]
+  },
+  {
+    "name": "contain",
+    "trans": [
+      "v. 包含, 控制"
+    ]
+  },
+  {
+    "name": "species",
+    "trans": [
+      "n. 物种, 种类"
+    ]
+  },
+  {
+    "name": "interpret",
+    "trans": [
+      "v. 解释, 口译"
+    ]
+  },
+  {
+    "name": "historian",
+    "trans": [
+      "n. 历史学家"
+    ]
+  },
+  {
+    "name": "identical",
+    "trans": [
+      "adj. 完全相同的, 一模一样的"
+    ]
+  },
+  {
+    "name": "exceptional",
+    "trans": [
+      "adj. 优异的, 例外的"
+    ]
+  },
+  {
+    "name": "resident",
+    "trans": [
+      "n. 居民, 常住者"
+    ]
+  },
+  {
+    "name": "manipulation",
+    "trans": [
+      "n. 操纵, 控制"
+    ]
+  },
+  {
+    "name": "liquid",
+    "trans": [
+      "adj. 液体的, 流动的"
+    ]
+  },
+  {
+    "name": "brood",
+    "trans": [
+      "n. 一窝, 一伙"
+    ]
+  },
+  {
+    "name": "element",
+    "trans": [
+      "n. 元素, 成分"
+    ]
+  },
+  {
+    "name": "detector",
+    "trans": [
+      "n. 探测器, 检测器"
+    ]
+  },
+  {
+    "name": "dominate",
+    "trans": [
+      "v. 支配, 统治"
+    ]
+  },
+  {
+    "name": "channel",
+    "trans": [
+      "n. 频道, 渠道"
+    ]
+  },
+  {
+    "name": "consonant",
+    "trans": [
+      "n. 辅音"
+    ]
+  },
+  {
+    "name": "interface",
+    "trans": [
+      "n. 接口, 界面"
+    ]
+  },
+  {
+    "name": "consume",
+    "trans": [
+      "v. 消费, 吃喝"
+    ]
+  },
+  {
+    "name": "profession",
+    "trans": [
+      "n. 职业, 专业"
+    ]
+  },
+  {
+    "name": "atomic",
+    "trans": [
+      "adj. 原子的, 极小的"
+    ]
+  },
+  {
+    "name": "antiquarian",
+    "trans": [
+      "adj. 古文物研究的"
+    ]
+  },
+  {
+    "name": "panel",
+    "trans": [
+      "n. 专家小组, 面板"
+    ]
+  },
+  {
+    "name": "sensitive",
+    "trans": [
+      "adj. 敏感的, 灵敏的"
+    ]
+  },
+  {
+    "name": "recession",
+    "trans": [
+      "n. 经济衰退"
+    ]
+  },
+  {
+    "name": "confidence",
+    "trans": [
+      "n. 信心, 自信"
+    ]
+  },
+  {
+    "name": "rough",
+    "trans": [
+      "adj. 粗糙的, 艰苦的"
+    ]
+  },
+  {
+    "name": "mandate",
+    "trans": [
+      "n. 授权, 命令"
+    ]
+  },
+  {
+    "name": "distinctive",
+    "trans": [
+      "adj. 独特的, 特殊的"
+    ]
+  },
+  {
+    "name": "downside",
+    "trans": [
+      "n. 缺点, 不利"
+    ]
+  },
+  {
+    "name": "delight",
+    "trans": [
+      "n. 快乐, 高兴"
+    ]
+  },
+  {
+    "name": "specific",
+    "trans": [
+      "adj. 特定的, 具体的"
+    ]
+  },
+  {
+    "name": "binary",
+    "trans": [
+      "adj. 二进制的, 双重的"
+    ]
+  },
+  {
+    "name": "interpretation",
+    "trans": [
+      "n. 解释, 演绎"
+    ]
+  },
+  {
+    "name": "trade-off",
+    "trans": [
+      "n. 权衡, 交换"
+    ]
+  },
+  {
+    "name": "artificial",
+    "trans": [
+      "adj. 人造的, 假的"
+    ]
+  },
+  {
+    "name": "outgo",
+    "trans": [
+      "n. 支出, 花费"
+    ]
+  },
+  {
+    "name": "depiction",
+    "trans": [
+      "n. 描绘, 描写"
+    ]
+  },
+  {
+    "name": "bargain",
+    "trans": [
+      "n. 交易, 便宜货"
+    ]
+  },
+  {
+    "name": "script",
+    "trans": [
+      "n. 剧本, 手稿"
+    ]
+  },
+  {
+    "name": "fracture",
+    "trans": [
+      "n. 骨折, 破裂"
+    ]
+  },
+  {
+    "name": "observer",
+    "trans": [
+      "n. 观察者"
+    ]
+  },
+  {
+    "name": "spike",
+    "trans": [
+      "n. 尖刺, 高峰"
+    ]
+  },
+  {
+    "name": "mimic",
+    "trans": [
+      "v. 模仿, 仿效"
+    ]
+  },
+  {
+    "name": "loose",
+    "trans": [
+      "adj. 松散的, 宽松的"
+    ]
+  },
+  {
+    "name": "realist",
+    "trans": [
+      "n. 现实主义者"
+    ]
+  },
+  {
+    "name": "amend",
+    "trans": [
+      "v. 修正, 改进"
+    ]
+  },
+  {
+    "name": "constant",
+    "trans": [
+      "adj. 不变的, 持续的"
+    ]
+  },
+  {
+    "name": "negative",
+    "trans": [
+      "adj. 否定的, 消极的"
+    ]
+  },
+  {
+    "name": "sediment",
+    "trans": [
+      "n. 沉积物, 沉淀"
+    ]
+  },
+  {
+    "name": "unimaginative",
+    "trans": [
+      "adj. 缺乏想象力的"
+    ]
+  },
+  {
+    "name": "unmix",
+    "trans": [
+      "v. 分开, 使不混合"
+    ]
+  },
+  {
+    "name": "sponsor",
+    "trans": [
+      "n. 赞助商, 发起者"
+    ]
+  },
+  {
+    "name": "forge",
+    "trans": [
+      "v. 锻造, 伪造"
+    ]
+  },
+  {
+    "name": "pend",
+    "trans": [
+      "v. 待定, 悬而未决"
+    ]
+  },
+  {
+    "name": "historic",
+    "trans": [
+      "adj. 历史性的"
+    ]
+  },
+  {
+    "name": "galaxy",
+    "trans": [
+      "n. 星系"
+    ]
+  },
+  {
+    "name": "gasoline",
+    "trans": [
+      "n. 汽油"
+    ]
+  },
+  {
+    "name": "originate",
+    "trans": [
+      "v. 起源, 发源"
+    ]
+  },
+  {
+    "name": "exploration",
+    "trans": [
+      "n. 探索, 探测"
+    ]
+  },
+  {
+    "name": "majority",
+    "trans": [
+      "n. 多数, 大多数"
+    ]
+  },
+  {
+    "name": "addition",
+    "trans": [
+      "n. 增加, 加法"
+    ]
+  },
+  {
+    "name": "wingless",
+    "trans": [
+      "adj. 无翼的"
+    ]
+  },
+  {
+    "name": "objective",
+    "trans": [
+      "adj. 客观的, 目标的"
+    ]
+  },
+  {
+    "name": "tariff",
+    "trans": [
+      "n. 关税"
+    ]
+  },
+  {
+    "name": "broadcast",
+    "trans": [
+      "v. 广播, 播送"
+    ]
+  },
+  {
+    "name": "simulate",
+    "trans": [
+      "v. 模拟, 假装"
+    ]
+  },
+  {
+    "name": "phrenetic",
+    "trans": [
+      "adj. 狂热的, 疯狂的"
+    ]
+  },
+  {
+    "name": "dissatisfaction",
+    "trans": [
+      "n. 不满, 不平"
+    ]
+  },
+  {
+    "name": "prescribe",
+    "trans": [
+      "v. 开药方, 指定"
+    ]
+  },
+  {
+    "name": "genome",
+    "trans": [
+      "n. 基因组"
+    ]
+  },
+  {
+    "name": "undefined",
+    "trans": [
+      "adj. 未定义的"
+    ]
+  },
+  {
+    "name": "monetary",
+    "trans": [
+      "adj. 货币的, 金融的"
+    ]
+  },
+  {
+    "name": "automaker",
+    "trans": [
+      "n. 汽车制造商"
+    ]
+  },
+  {
+    "name": "alternative",
+    "trans": [
+      "adj. 替代的, 选择性的"
+    ]
+  },
+  {
+    "name": "innovator",
+    "trans": [
+      "n. 创新者"
+    ]
+  },
+  {
+    "name": "quantity",
+    "trans": [
+      "n. 数量"
+    ]
+  },
+  {
+    "name": "electrical",
+    "trans": [
+      "adj. 电的, 电气的"
+    ]
+  },
+  {
+    "name": "pun",
+    "trans": [
+      "n. 双关语"
+    ]
+  },
+  {
+    "name": "settlement",
+    "trans": [
+      "n. 定居, 协议"
+    ]
+  },
+  {
+    "name": "relevant",
+    "trans": [
+      "adj. 相关的, 切题的"
+    ]
+  },
+  {
+    "name": "extensive",
+    "trans": [
+      "adj. 广泛的, 大量的"
+    ]
+  },
+  {
+    "name": "curator",
+    "trans": [
+      "n. 馆长, 负责人"
+    ]
+  },
+  {
+    "name": "unpublished",
+    "trans": [
+      "adj. 未出版的"
+    ]
+  },
+  {
+    "name": "atmosphere",
+    "trans": [
+      "n. 大气, 气氛"
+    ]
+  },
+  {
+    "name": "assistance",
+    "trans": [
+      "n. 帮助, 协助"
+    ]
+  },
+  {
+    "name": "unusable",
+    "trans": [
+      "adj. 无法使用的"
+    ]
+  },
+  {
+    "name": "represent",
+    "trans": [
+      "v. 代表, 表现"
+    ]
+  },
+  {
+    "name": "barrier",
+    "trans": [
+      "n. 障碍, 屏障"
+    ]
+  },
+  {
+    "name": "generator",
+    "trans": [
+      "n. 发电机"
+    ]
+  },
+  {
+    "name": "violence",
+    "trans": [
+      "n. 暴力, 猛烈"
+    ]
+  },
+  {
+    "name": "consumer",
+    "trans": [
+      "n. 消费者, 用户"
+    ]
+  },
+  {
+    "name": "irrelevant",
+    "trans": [
+      "adj. 无关的"
+    ]
+  },
+  {
+    "name": "scatter",
+    "trans": [
+      "v. 散布, 分散"
+    ]
+  },
+  {
+    "name": "sunflower",
+    "trans": [
+      "n. 向日葵"
+    ]
+  },
+  {
+    "name": "sparkiness",
+    "trans": [
+      "n. 活泼"
+    ]
+  },
+  {
+    "name": "nanometre",
+    "trans": [
+      "n. 纳米"
+    ]
+  },
+  {
+    "name": "combination",
+    "trans": [
+      "n. 组合, 合并"
+    ]
+  },
+  {
+    "name": "toolkit",
+    "trans": [
+      "n. 工具箱"
+    ]
+  },
+  {
+    "name": "hydrogen",
+    "trans": [
+      "n. 氢气"
+    ]
+  },
+  {
+    "name": "crustacean",
+    "trans": [
+      "n. 甲壳类动物"
+    ]
+  },
+  {
+    "name": "depict",
+    "trans": [
+      "v. 描绘, 描述"
+    ]
+  },
+  {
+    "name": "ore",
+    "trans": [
+      "n. 矿石"
+    ]
+  },
+  {
+    "name": "flush",
+    "trans": [
+      "v. 冲洗, 发红"
+    ]
+  },
+  {
+    "name": "massive",
+    "trans": [
+      "adj. 巨大的, 大规模的"
+    ]
+  },
+  {
+    "name": "observe",
+    "trans": [
+      "v. 观察, 遵守"
+    ]
+  },
+  {
+    "name": "coordinate",
+    "trans": [
+      "v. 协调, 配合"
+    ]
+  },
+  {
+    "name": "maternal",
+    "trans": [
+      "adj. 母亲的, 母性的"
+    ]
+  },
+  {
+    "name": "combo",
+    "trans": [
+      "n. 组合, 套餐"
+    ]
+  },
+  {
+    "name": "counterintuitive",
+    "trans": [
+      "adj. 违反直觉的"
+    ]
+  },
+  {
+    "name": "vessel",
+    "trans": [
+      "n. 船只, 容器"
+    ]
+  },
+  {
+    "name": "humanity",
+    "trans": [
+      "n. 人类, 人性"
+    ]
+  },
+  {
+    "name": "biofuel",
+    "trans": [
+      "n. 生物燃料"
+    ]
+  },
+  {
+    "name": "formalistic",
+    "trans": [
+      "adj. 形式主义的"
+    ]
+  },
+  {
+    "name": "sexton",
+    "trans": [
+      "n. 教堂司事"
+    ]
+  },
+  {
+    "name": "disappear",
+    "trans": [
+      "v. 消失, 失踪"
+    ]
+  },
+  {
+    "name": "potential",
+    "trans": [
+      "adj. 潜在的, 可能的"
+    ]
+  },
+  {
+    "name": "boredom",
+    "trans": [
+      "n. 厌倦, 无聊"
+    ]
+  },
+  {
+    "name": "merger",
+    "trans": [
+      "n. 合并, 兼并"
+    ]
+  },
+  {
+    "name": "bulk",
+    "trans": [
+      "n. 大量, 体积"
+    ]
+  },
+  {
+    "name": "stabilise",
+    "trans": [
+      "v. 使稳定, 稳固"
+    ]
+  },
+  {
+    "name": "classical",
+    "trans": [
+      "adj. 古典的, 经典的"
+    ]
+  },
+  {
+    "name": "restoration",
+    "trans": [
+      "n. 恢复, 修复"
+    ]
+  },
+  {
+    "name": "deliver",
+    "trans": [
+      "v. 交付, 传送"
+    ]
+  },
+  {
+    "name": "sketch",
+    "trans": [
+      "n. 素描, 草图"
+    ]
+  },
+  {
+    "name": "brainwave",
+    "trans": [
+      "n. 灵感"
+    ]
+  },
+  {
+    "name": "pseudo",
+    "trans": [
+      "adj. 假的, 伪装的"
+    ]
+  },
+  {
+    "name": "collaborative",
+    "trans": [
+      "adj. 合作的, 协作的"
+    ]
+  },
+  {
+    "name": "accommodate",
+    "trans": [
+      "v. 容纳, 适应"
+    ]
+  },
+  {
+    "name": "interpreter",
+    "trans": [
+      "n. 口译员, 解释者"
+    ]
+  },
+  {
+    "name": "automobile",
+    "trans": [
+      "n. 汽车"
+    ]
+  },
+  {
+    "name": "algorithm",
+    "trans": [
+      "n. 算法, 运算法则"
+    ]
+  },
+  {
+    "name": "nonpartisan",
+    "trans": [
+      "adj. 无党派的"
+    ]
+  },
+  {
+    "name": "sustainable",
+    "trans": [
+      "adj. 可持续的"
+    ]
+  },
+  {
+    "name": "disrupt",
+    "trans": [
+      "v. 打乱, 中断"
+    ]
+  },
+  {
+    "name": "rationality",
+    "trans": [
+      "n. 理性, 合理性"
+    ]
+  },
+  {
+    "name": "iceberg",
+    "trans": [
+      "n. 冰山"
+    ]
+  },
+  {
+    "name": "accurate",
+    "trans": [
+      "adj. 精确的, 准确的"
+    ]
+  },
+  {
+    "name": "responsive",
+    "trans": [
+      "adj. 反应迅速的"
+    ]
+  },
+  {
+    "name": "conversational",
+    "trans": [
+      "adj. 会话的"
+    ]
+  },
+  {
+    "name": "pollution",
+    "trans": [
+      "n. 污染"
+    ]
+  },
+  {
+    "name": "microphone",
+    "trans": [
+      "n. 麦克风"
+    ]
+  },
+  {
+    "name": "migrant",
+    "trans": [
+      "n. 移民, 候鸟"
+    ]
+  },
+  {
+    "name": "cardiologist",
+    "trans": [
+      "n. 心脏病学家"
+    ]
+  },
+  {
+    "name": "reposition",
+    "trans": [
+      "v. 改变位置"
+    ]
+  },
+  {
+    "name": "sober",
+    "trans": [
+      "adj. 清醒的, 冷静的"
+    ]
+  },
+  {
+    "name": "unpopulated",
+    "trans": [
+      "adj. 无人居住的"
+    ]
+  },
+  {
+    "name": "vibration",
+    "trans": [
+      "n. 振动, 震动"
+    ]
+  },
+  {
+    "name": "investment",
+    "trans": [
+      "n. 投资"
+    ]
+  },
+  {
+    "name": "croft",
+    "trans": [
+      "n. 小农场"
+    ]
+  },
+  {
+    "name": "pursuit",
+    "trans": [
+      "n. 追求, 追赶"
+    ]
+  },
+  {
+    "name": "deform",
+    "trans": [
+      "v. 变形, 使畸形"
+    ]
+  },
+  {
+    "name": "inflection",
+    "trans": [
+      "n. 词尾变化"
+    ]
+  },
+  {
+    "name": "solution",
+    "trans": [
+      "n. 解决方案"
+    ]
+  },
+  {
+    "name": "shock wave",
+    "trans": [
+      "n. 冲击波"
+    ]
+  },
+  {
+    "name": "worksheet",
+    "trans": [
+      "n. 工作表"
+    ]
+  },
+  {
+    "name": "common",
+    "trans": [
+      "adj. 普通的, 常见的"
+    ]
+  },
+  {
+    "name": "bureau",
+    "trans": [
+      "n. 局, 办公室"
+    ]
+  },
+  {
+    "name": "confection",
+    "trans": [
+      "n. 糖果"
+    ]
+  },
+  {
+    "name": "smartphone",
+    "trans": [
+      "n. 智能手机"
+    ]
+  },
+  {
+    "name": "frustrate",
+    "trans": [
+      "v. 挫败, 使沮丧"
+    ]
+  },
+  {
+    "name": "Parliament",
+    "trans": [
+      "n. 议会, 国会"
+    ]
+  },
+  {
+    "name": "interstellar",
+    "trans": [
+      "adj. 星际的"
+    ]
+  },
+  {
+    "name": "wilderness",
+    "trans": [
+      "n. 荒野, 未开垦的地方"
+    ]
+  },
+  {
+    "name": "multifaceted",
+    "trans": [
+      "adj. 多面的"
+    ]
+  },
+  {
+    "name": "management",
+    "trans": [
+      "n. 管理, 经营"
+    ]
+  },
+  {
+    "name": "preliminary",
+    "trans": [
+      "adj. 初步的, 预备的"
+    ]
+  },
+  {
+    "name": "political",
+    "trans": [
+      "adj. 政治的"
+    ]
+  },
+  {
+    "name": "bias",
+    "trans": [
+      "n. 偏见, 偏心"
+    ]
+  },
+  {
+    "name": "aircraft",
+    "trans": [
+      "n. 飞机, 航空器"
+    ]
+  },
+  {
+    "name": "replace",
+    "trans": [
+      "v. 代替, 取代"
+    ]
+  },
+  {
+    "name": "justice",
+    "trans": [
+      "n. 正义, 公正"
+    ]
+  },
+  {
+    "name": "dimension",
+    "trans": [
+      "n. 尺寸, 方面"
+    ]
+  },
+  {
+    "name": "confess",
+    "trans": [
+      "v. 承认, 坦白"
+    ]
+  },
+  {
+    "name": "hemisphere",
+    "trans": [
+      "n. 半球"
+    ]
+  },
+  {
+    "name": "explore",
+    "trans": [
+      "v. 探索, 探险"
+    ]
+  },
+  {
+    "name": "dioxide",
+    "trans": [
+      "n. 二氧化物"
+    ]
+  },
+  {
+    "name": "habitat",
+    "trans": [
+      "n. 栖息地"
+    ]
+  },
+  {
+    "name": "adverse",
+    "trans": [
+      "adj. 不利的, 逆向的"
+    ]
+  },
+  {
+    "name": "radiant",
+    "trans": [
+      "adj. 光芒四射的, 辐射的"
+    ]
+  },
+  {
+    "name": "holistic",
+    "trans": [
+      "adj. 整体的, 全面的"
+    ]
+  },
+  {
+    "name": "aggressive",
+    "trans": [
+      "adj. 侵略的, 积极进取的"
+    ]
+  },
+  {
+    "name": "investigation",
+    "trans": [
+      "n. 调查, 研究"
+    ]
+  },
+  {
+    "name": "drainage",
+    "trans": [
+      "n. 排水, 排水系统"
+    ]
+  },
+  {
+    "name": "treatable",
+    "trans": [
+      "adj. 可治疗的"
+    ]
+  },
+  {
+    "name": "incredible",
+    "trans": [
+      "adj. 难以置信的"
+    ]
+  },
+  {
+    "name": "convene",
+    "trans": [
+      "v. 召集, 集合"
+    ]
+  },
+  {
+    "name": "optimise",
+    "trans": [
+      "v. 优化, 使完善"
+    ]
+  },
+  {
+    "name": "bounty",
+    "trans": [
+      "n. 慷慨, 奖励金"
+    ]
+  },
+  {
+    "name": "compatible",
+    "trans": [
+      "adj. 兼容的, 和谐的"
+    ]
+  },
+  {
+    "name": "electron",
+    "trans": [
+      "n. 电子"
+    ]
+  },
+  {
+    "name": "Congress",
+    "trans": [
+      "n. 国会, 议会"
+    ]
+  },
+  {
+    "name": "consensus",
+    "trans": [
+      "n. 共识, 一致意见"
+    ]
+  },
+  {
+    "name": "evidence",
+    "trans": [
+      "n. 证据, 证明"
+    ]
+  },
+  {
+    "name": "legislation",
+    "trans": [
+      "n. 立法, 法律"
+    ]
+  },
+  {
+    "name": "offset",
+    "trans": [
+      "v. 抵消, 补偿"
+    ]
+  },
+  {
+    "name": "rebound",
+    "trans": [
+      "v. 反弹, 回升"
+    ]
+  },
+  {
+    "name": "extreme",
+    "trans": [
+      "adj. 极端的, 偏激的"
+    ]
+  },
+  {
+    "name": "advocate",
+    "trans": [
+      "v. 提倡, 支持"
+    ]
+  },
+  {
+    "name": "conventional",
+    "trans": [
+      "adj. 传统的, 常规的"
+    ]
+  },
+  {
+    "name": "audience",
+    "trans": [
+      "n. 听众, 观众"
+    ]
+  },
+  {
+    "name": "pollinator",
+    "trans": [
+      "n. 传粉者"
+    ]
+  },
+  {
+    "name": "odd",
+    "trans": [
+      "adj. 奇数的, 奇怪的"
+    ]
+  },
+  {
+    "name": "dolphin",
+    "trans": [
+      "n. 海豚"
+    ]
+  },
+  {
+    "name": "accessible",
+    "trans": [
+      "adj. 可接近的, 易理解的"
+    ]
+  },
+  {
+    "name": "centrifuge",
+    "trans": [
+      "n. 离心机"
+    ]
+  },
+  {
+    "name": "landowner",
+    "trans": [
+      "n. 地主, 土地所有者"
+    ]
+  },
+  {
+    "name": "emission",
+    "trans": [
+      "n. 排放, 散发"
+    ]
+  },
+  {
+    "name": "advertise",
+    "trans": [
+      "v. 广告, 宣传"
+    ]
+  },
+  {
+    "name": "employment",
+    "trans": [
+      "n. 就业, 职业"
+    ]
+  },
+  {
+    "name": "vision",
+    "trans": [
+      "n. 视力, 远见"
+    ]
+  }
+]
